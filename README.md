@@ -67,3 +67,30 @@
 ### Tensorflow.js
 
 https://www.tensorflow.org/js
+
+---
+
+### 読了後の感想
+
+[The Reality of JavaScript Performance \| by Kevin Ghadyani | ITNEXT](https://itnext.io/the-reality-of-javascript-performance-4ec9747882d3)
+
+functional code?  
+big data - in legacy app?  
+
+more importance (esp in front-end) is  
+readability and maintainability  
+
+##### Get it working, make it maintainable, then worry about improving it.
+
+point is
+- Performance in your application is heavily based on the JavaScript interpreter. For the most part, a lot of things you wrote in the past will get faster with every future interpreter update.
+
+Instead of solving it myself, the real solution to this one-of-a-kind situation was to get a pre-formatted JSON file.
+
+##### Conclusion
+
+Front-end
+- keep it light, fast, readable, flexible, functionable, improving user experience
+Back-end, especially server-side app, not for CRUD or for rendering
+- maybe here focus on more complex performance, data analysis
+
