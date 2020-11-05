@@ -6,7 +6,7 @@
 - Javascript performance  
 - Libraries, framework performance
 - Fast looping  
-- Fast filtering, sorting, searching  
+- Fast filtering, sorting, searching, etc  
 - Omega  
 - Optimal gpu/cpu performance
 
