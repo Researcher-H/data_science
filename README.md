@@ -1,4 +1,4 @@
-# Data Science
+# Data Science in JS
 
 ### Key points
 
