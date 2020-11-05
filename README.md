@@ -1,7 +1,5 @@
 # Data Science
 
----
-
 ### Key points
 
 - Data (array, matrix) processing  
@@ -13,11 +11,13 @@
 
 ---
 
-#### Getting started
+### Getting started
+
+#### The first read
 
 0. [The Reality of JavaScript Performance \| by Kevin Ghadyani | ITNEXT](https://itnext.io/the-reality-of-javascript-performance-4ec9747882d3)
 
-#### Further reading
+#### Further readings
 
 1. [Matrix math for the web - Web APIs \| MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Matrix_math_for_the_web)
 2. [Speed Up JavaScript Array Processing \| by Kevin Ghadyani | ITNEXT](https://itnext.io/speed-up-javascript-array-processing-8d601c57bb0d)
@@ -39,7 +39,7 @@
 
 ---
 
-### matlab alternative JS libraries?
+### Matlab alternative JS libraries?
 
 1. [MILJS : Brand New JavaScript Libraries for Matrix Calculation and Machine Learning](https://www.researchgate.net/publication/272752232_MILJS_Brand_New_JavaScript_Libraries_for_Matrix_Calculation_and_Machine_Learning)
 2. [Four Serious Math Libraries for JavaScript](https://smartbear.com/blog/test-and-monitor/four-serious-math-libraries-for-javascript/)
