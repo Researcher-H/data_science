@@ -94,3 +94,16 @@ Front-end
 Back-end, especially server-side app, not for CRUD or for rendering
 - maybe here focus on more complex performance, data analysis
 
+だから
+front-end/client side = javascript
+server-side = javascript (node & express)
+back-end app (complex data analysis,processing) = python? c?
+でもオーケー
+
+それでも  
+これからの状況  
+- 5G, 
+- new framework/library, 
+- new JS version, 
+- etc
+によっても変わってくる
