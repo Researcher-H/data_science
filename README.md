@@ -5,9 +5,10 @@
 - Data (array, matrix) processing  
 - Javascript performance  
 - Libraries, framework performance
-- Looping  
-- omega sorting  
-- optimal gpu/cpu performance
+- Fast looping  
+- Fast filtering, sorting, searching  
+- Omega  
+- Optimal gpu/cpu performance
 
 ---
 
@@ -36,6 +37,17 @@
 15. [Javascript Array.push is 945x faster than Array.concat 🤯🤔 - DEV](https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki)
 16. [20 Best Practices for Improving JavaScript Performance - KeyCDN](https://www.keycdn.com/blog/javascript-performance)
 17. [How to speed up Node.js matrix computing with Math.js 🌠 - DEV](https://dev.to/hoshiwarpsjs/how-to-speed-up-nodejs-matrix-computing-with-mathjs--3o68)
+18. [Lightning Fast Filtering in JavaScript \| Chris Smith](https://chrissmith.xyz/lightning-fast-filtering-in-javascript/)
+19. [What is the highest performance way to filter a list of JSON objects in JavaScript? - Stack Overflow](https://stackoverflow.com/questions/13565751/what-is-the-highest-performance-way-to-filter-a-list-of-json-objects-in-javascri)
+20. [jquery - Fast filter in a list of records with JavaScript - Stack Overflow](https://stackoverflow.com/questions/28876947/fast-filter-in-a-list-of-records-with-javascript/28887606)
+21. [How do I implement a fast way to filter a large array of 20k objects? - ionic-v3 - Ionic Forum](https://forum.ionicframework.com/t/how-do-i-implement-a-fast-way-to-filter-a-large-array-of-20k-objects/120285)
+22. [What's the best/fastest way to filter a long array containing 20k objects? : javascript](https://www.reddit.com/r/javascript/comments/7uqxrv/whats_the_bestfastest_way_to_filter_a_long_array/)
+23. [Quick and Simple Search Filter Using Vanilla JavaScript ― Scotch.io](https://scotch.io/tutorials/quick-and-simple-search-filter-using-vanilla-javascript)
+24. [Write a Custom JavaScript Filter Function that is 60% faster than Array.filter - DEV](https://dev.to/functional_js/write-a-custom-javascript-filter-function-that-is-60-faster-than-array-filter-4b66)
+25. [Javascript performance test - for vs for each vs (map, reduce, filter, find). \| by Deepak Gupta | Towards Data Science](https://towardsdatascience.com/javascript-performance-test-for-vs-for-each-vs-map-reduce-filter-find-32c1113f19d7)
+26. [Javascript Performance: Array.slice() vs Array.filter() \| by Justin Tulk | Medium](https://medium.com/@justintulk/javascript-performance-array-slice-vs-array-filter-4573d726aacb)
+27. [The Fastest Way to Remove a Specific Item from an Array in JavaScript \| JavaScript In Plain English](https://medium.com/javascript-in-plain-english/how-to-remove-a-specific-item-from-an-array-in-javascript-a49b108404c)
+28. [Search, sort, filters, flexibility to tables, list and more! - List.js](https://listjs.com/)
 
 ---
 
@@ -55,5 +67,3 @@
 ### Tensorflow.js
 
 https://www.tensorflow.org/js
-
-
