@@ -64,18 +64,51 @@
 
 ---
 
-### data analysis
+### Data analysis
 
 ##### Tensorflow.js
 
 https://www.tensorflow.org/js
 
-### data visualization
+### Data visualization
 
 ##### D3.js
 
 https://d3js.org/
 
+data visualization articles
+1. [Best JavaScript Data Visualization Libraries for 2020 \| by Veronika Rovnik | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/best-javascript-data-visualization-libraries-for-2020-15291919a176)
+2. [14 JavaScript Data Visualization Libraries in 2020](https://www.monterail.com/blog/javascript-libraries-data-visualization)
+3. [A Guide to the Best Javascript Visualization Libraries l Sisense](https://www.sisense.com/en-gb/blog/a-guide-to-the-best-javascript-visualization-libraries/)
+4. [Beautiful JavaScript Data Visualization Libraries \| by Tate Galbraith | Level Up Coding](https://levelup.gitconnected.com/beautiful-javascript-data-visualization-libraries-1d3b66d6c318)
+5. [Data Visualization with JavaScript Using Best JS libraries](https://www.xenonstack.com/blog/data-visualization-with-javascript/)
+6. [Top 10 JavaScript Charting Libraries for Every Data Visualization Need \| Hacker Noon](https://hackernoon.com/10-javascript-charting-libraries-data-visualization-b77523d23372)
+7. [JavaScript Interactive Visualization \| Towards Data Science](https://towardsdatascience.com/the-importance-of-interactive-data-visualization-5e125cb04ce3)
+8. [Top 8 Data Visualisation Libraries In Java & JavaScript](https://analyticsindiamag.com/top-8-data-visualisation-libraries-in-javascript/)
+
+data visualization js libraries
+1. Toast UI Chart
+2. Google Charts xxx xxx xxx xxx
+3. D3.js xxx xxx xxx xxx
+4. Recharts xxx
+5. Victory
+6. React-vis
+7. V Charts
+8. Trading Vuejs
+9. Chartkick
+10. Chart.js xxx xxx
+11. ThreeJs xxx
+12. Echarts xxx
+
+
+6. WebDataRocks xxx
+7. PivotTable.js
+8. 
+
+
+##### D3.js
+
+https://d3js.org/
 
 
 
