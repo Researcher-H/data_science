@@ -110,7 +110,15 @@ data visualization js libraries
 
 https://d3js.org/
 
+---
 
+https://stackoverflow.com/questions/23451828/data-analysis-with-javascript
+
+https://opensource.com/article/20/6/data-science-nodejs
+
+https://js4ds.org/
+
+https://soshace.com/top-11-javascript-machine-learning-data-science-libraries/
 
 ---
 
