@@ -120,6 +120,10 @@ https://js4ds.org/
 
 https://soshace.com/top-11-javascript-machine-learning-data-science-libraries/
 
+https://www.reddit.com/r/javascript/comments/bvqy9l/the_state_of_data_analysis/
+
+https://thelead.io/general/how-can-we-use-javascript-in-data-science
+
 ---
 
 ### 読了後の感想
