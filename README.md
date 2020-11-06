@@ -64,9 +64,20 @@
 
 ---
 
-### Tensorflow.js
+### data analysis
+
+##### Tensorflow.js
 
 https://www.tensorflow.org/js
+
+### data visualization
+
+##### D3.js
+
+https://d3js.org/
+
+
+
 
 ---
 
@@ -106,4 +117,5 @@ back-end app (complex data analysis,processing) = python? c?
 - new framework/library, 
 - new JS version, 
 - etc
+
 によっても変わってくる
