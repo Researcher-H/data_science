@@ -128,6 +128,8 @@ https://thelead.io/general/how-can-we-use-javascript-in-data-science
 
 ### 読了後の感想
 
+##### 0
+
 [The Reality of JavaScript Performance \| by Kevin Ghadyani | ITNEXT](https://itnext.io/the-reality-of-javascript-performance-4ec9747882d3)
 
 functional code?  
@@ -143,7 +145,35 @@ point is
 
 Instead of solving it myself, the real solution to this one-of-a-kind situation was to get a pre-formatted JSON file.
 
-##### Conclusion
+##### 1
+
+watching/learning online course (D3 v4.2.0), which is released on 10/28/2016   
+v4.0.0 release on 28 Jun 2016 (too old)    
+v4.2.0 release on 30 Jul 2016 (too old)  
+v6.0.0 release on 26 Aug 2020  
+v6.2.0 release on 23 Sep 2020 (the latest)  
+v5.16.0 release on 20 Apr 2020 (the oldest v5)  
+
+(maybe try the oldest v5 or the latest)  
+
+###### tutorials for D3.js
+
+https://d3js.org/  
+
+https://github.com/d3/d3/wiki
+
+https://github.com/d3/d3/blob/master/API.md
+
+https://github.com/d3/d3/wiki/Tutorials
+
+https://observablehq.com/@d3/learn-d3
+
+
+
+
+---
+
+### Conclusion
 
 Front-end
 - keep it light, fast, readable, flexible, functionable, improving user experience
